@@ -6,3 +6,4 @@ one
 two
 final edit compleated	
 compleated
+I love git
